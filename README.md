@@ -73,6 +73,8 @@ BS Computer Science — National College of Business Administration & Economics
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/aliwaqar01/) ·
-[X](https://x.com/AliWaqarghauri) ·
-[Email](mailto:aliwaqarofficial@gmail.com)
+**[LinkedIn →](https://linkedin.com/in/aliwaqar01/)** — full career history, roles and dates
+
+**[aliwaqarofficial@gmail.com](mailto:aliwaqarofficial@gmail.com)** — best way to reach me
+
+**[@AliWaqarghauri](https://x.com/AliWaqarghauri)** on X
