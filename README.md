@@ -38,7 +38,7 @@ Free and MIT licensed, for Windows, macOS and Linux.
 |---|---|
 | **Orchestration** | Kubernetes · RKE2 · EKS · GKE · Docker · Argo CD · GitOps |
 | **CI/CD** | Jenkins · GitHub Actions · Terraform · Ansible |
-| **Cloud** | AWS · GCP · Azure · hybrid and on-prem |
+| **Cloud** | AWS · GCP · hybrid and on-prem |
 | **Observability** | Prometheus · Grafana · custom exporters · ELK · Datadog · Sentry |
 | **Networking** | VPC · routing · VPN · firewalls · Nginx Stream L4/L7 load balancing |
 | **Security** | IAM/RBAC · secrets management · TLS lifecycle · hardening · VAPT collaboration |
