@@ -77,4 +77,4 @@ BS Computer Science — National College of Business Administration & Economics
 
 **[aliwaqarofficial@gmail.com](mailto:aliwaqarofficial@gmail.com)** — best way to reach me
 
-**[@AliWaqarghauri](https://x.com/AliWaqarghauri)** on X
+
