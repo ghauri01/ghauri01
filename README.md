@@ -7,8 +7,8 @@ delivery, and the network and security operations wrapped around them. Working i
 regulated environments since 2021, where downtime is measured in money and compliance
 is not a nice-to-have.
 
-Currently at **Walee Technologies**, owning DevOps, network and security operations
-end to end across production and non-production environments.
+Right now that means owning DevOps, network and security operations end to end for a
+financial services platform, across production and non-production environments.
 
 I also build the tools I wish I had at work. ↓
 
